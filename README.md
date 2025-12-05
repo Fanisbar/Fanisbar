@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a few small projects in C, Python and in JupyterNotebook regarding various topics such as, artificial intelligence, data mining etc.<br>
+I'm currently working on a few small projects in C, Python and in JupyterNotebook regarding various topics such as, artificial intelligence, data mining and a few other tools for personal use.<br>
 
 
 ## 🌐 Socials:
