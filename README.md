@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currectly an undergraduate student at the Department of Informatics and Telecommunications(DIT), University of Athens(UoA).<br>
-I'm currently working on a few small projects in C, Python and in JupyterNotebook regarding various topics such as, artificial intelligence, data mining and a few other tools for personal use.<br>
+Working on a few small projects in C, Python and in JupyterNotebook regarding various topics such as, artificial intelligence, data mining and a few other tools for personal use.<br>
 My work so far has mainly been university assignments and some projects of my own, along with a few competitions I took part in.
 
 ## 🌐 Socials:
