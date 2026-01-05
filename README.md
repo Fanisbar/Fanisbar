@@ -14,6 +14,13 @@ My work so far has mainly been university assignments and some projects of my ow
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://streak-stats.demolab.com/?user=Fanisbar&theme=dark&hide_border=false)
 
+![Fanisbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanisbar&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fanisbar&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Fanisbar&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Fanisbar&icon=0&color=0)](https://visitcount.itsvg.in)
 
