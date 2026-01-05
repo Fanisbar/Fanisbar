@@ -3,7 +3,7 @@ Currectly an undergraduate student at the Department of Informatics and Telecomm
 I'm working on a few small projects in C, C++, Python and in JupyterNotebook regarding various topics such as, artificial intelligence, data mining and a few other tools for personal use.<br>
 My work so far has mainly been university assignments and some projects of my own, along with a few competitions I took part in.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fanisbar123[at]gmail[dot]com)
 
 # 💻 Tech Stack:
