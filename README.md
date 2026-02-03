@@ -17,12 +17,4 @@ My work so far has mainly been university assignments and some projects of my ow
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)<br/>  
 
 
-σουβλάκι
-![](https://github-readme-stats.demolab.com/api?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![](https://streak-stats.demolab.com/?user=Fanisbar&theme=dark&hide_border=false&cache_seconds=1800)
-
-![](https://github-readme-stats.demolab.com/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
