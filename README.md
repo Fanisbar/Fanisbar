@@ -14,5 +14,8 @@ My work so far has mainly been university assignments and some projects of my ow
 ![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false&cache_seconds=1800) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fanisbar&theme=dark)
+![Snake animation](https://github.com/Fanisbar/Fanisbar/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
