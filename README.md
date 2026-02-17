@@ -12,8 +12,23 @@ My work so far has mainly been university assignments and some projects of my ow
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&layout=compact&a=1) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false&cache_seconds=1800) <br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Fanisbar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
