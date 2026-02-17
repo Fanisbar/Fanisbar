@@ -13,7 +13,7 @@ My work so far has mainly been university assignments and some projects of my ow
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Fanisbar&theme=dark&hide_border=false&cache_seconds=1800) <br/> -->
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&layout=compact&a=1) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false&cache_seconds=1800) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&layout=compact&cache_seconds=1800
 
 
 
