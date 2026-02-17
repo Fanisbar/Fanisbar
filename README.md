@@ -12,7 +12,7 @@ My work so far has mainly been university assignments and some projects of my ow
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=3600) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600) <br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Fanisbar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600) <br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600) <br/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
