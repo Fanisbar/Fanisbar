@@ -15,4 +15,9 @@ My work so far has mainly been university assignments and some projects of my ow
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&count_private=true&layout=compact&cache_seconds=1800)
 
 
+# test GitHub Stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fanisbar&theme=dark) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false&cache_seconds=1800) <br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fanisbar&theme=dark)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
