@@ -11,9 +11,12 @@ My work so far has mainly been university assignments and some projects of my ow
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=1800) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&layout=pie&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&layout=donut&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fanisbar&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fanisbar&theme=dark&v=1) <br/>
+
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&layout=pie&cache_seconds=1800&b=1) <br/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
