@@ -1,6 +1,6 @@
 # About Me:
 Currently an undergraduate student at the Department of Informatics and Telecommunications(DIT), University of Athens(UoA).<br>
-I'm working on a few small projects in C, C++, Python and in JupyterNotebook regarding various topics such as, artificial intelligence, data mining and a few other tools for personal use.<br>
+I'm working on a few small projects in C, C++, Python and in JupyterNotebook regarding various topics such as, artificial intelligence, machine learning, data mining and a few other tools for personal use.<br>
 My work so far has mainly been university assignments and projects of my own, along with a few competitions I took part in.  
 
 # Socials:
@@ -11,7 +11,7 @@ My work so far has mainly been university assignments and projects of my own, al
 
 # GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=3600) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600&v) <br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600) <br/>
 
 
