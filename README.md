@@ -11,7 +11,7 @@ My work so far has mainly been university assignments and projects of my own, al
 
 # GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=3600) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600&v) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600) <br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600) <br/>
 
 
