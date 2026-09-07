@@ -12,6 +12,7 @@ My work so far has mainly been university assignments and projects of my own, al
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-GPU%20Acceleration-76B900?style=for-the-badge&logo=nvidia)
+![Torchvision](https://img.shields.io/badge/Torchvision-Computer%20Vision-red?style=for-the-badge&logo=pytorch)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface)
 ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-ResNet18-success?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
