@@ -4,7 +4,7 @@ I'm working on a few small projects in C, C++, Python and in JupyterNotebook reg
 My work so far has mainly been university assignments and projects of my own, along with a few competitions I took part in.  
 
 # Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fanisbar123@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Theofanis Barmparosos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fanisbar123@gmail.com) 
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,10 +31,11 @@ My work so far has mainly been university assignments and projects of my own, al
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=7200) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=7200) <br/>
-![](https://github-readme-stats.vercel.app/api?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=7200) <br/>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Fanisbar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fanisbar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+[![](https://komarev.com/ghpvc/?username=Fanisbar&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
